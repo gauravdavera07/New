@@ -1,0 +1,6 @@
+GitHub is a, cloud-based platform and Git repository hosting service
+where developers store, manage, share, and collaborate on code projects.
+Founded in 2008 and acquired by Microsoft in 2018, 
+it serves as the{" "largest host of source code in the world,
+combining the {Git} version control system with features like bug tracking,
+task management, and, {CI/CD}. 
