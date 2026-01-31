@@ -1,0 +1,5 @@
+GitHub branches are a core feature of the Git version control system
+that allow developers to isolate development work for new features
+or bug fixes without affecting the main codebase. Each repository
+has a default branch (typically named main), which is considered
+the stable, deployable version of the project. 
